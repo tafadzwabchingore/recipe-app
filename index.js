@@ -9,8 +9,8 @@ const api_key = "da8869d40d1c40f5a93da6b9c391de75";
 // Setting up EJS as the view engine
 app.set('view engine', 'ejs');
 
-// Serving static files from the 'public' directory
-app.use(express.static('public'));
+// Serving static files from the 'styles' directory
+app.use(express.static('styles'));
 
 // Parsing incoming request bodies
 app.use(express.urlencoded({ extended: false }));
