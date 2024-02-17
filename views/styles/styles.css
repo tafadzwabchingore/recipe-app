@@ -1,5 +1,5 @@
 body {
-    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-family: 'Lobster', 'Roboto', sans-serif;
     background-color: #fcefef;
     color: #4a051c;
     margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ form {
 
 input,
 button {
-    font-family: "Georgia", "Times New Roman", Times, serif;
+    font-family: 'Lobster', 'Roboto', sans-serif;
     font-size: 18px;
     margin: 5px;
 }

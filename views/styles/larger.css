@@ -1,0 +1,20 @@
+@media screen and (min-width: 500px) {
+
+    header,
+    h1 {
+        background-color: #fcefef;
+        color: #4a051c;
+    }
+
+    main {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    nav ul {
+        display: flex;
+    }
+
+    nav ul li {
+        flex: 1 1 100%;
+    }
+}
