@@ -1,0 +1,28 @@
+{
+    "familyName": "Chingore",
+    "moveInDate": "1 July 2022",
+    "numberOfFamilyMembers": "4",
+    "visitedByBishopric": "Yes",
+    "familyMembers": [
+        {
+            "name": "Hildar Chingore",
+            "gender": "Female",
+            "birthDate": "April 27 1979"
+        },
+        {
+            "name": "Emmanuel Chingore Sr",
+            "gender": "Male",
+            "birthDate": "June 13 1970"
+        },
+        {
+            "name": "Emmanuel Chingore Jn",
+            "gender": "Male",
+            "birthDate": "December 7 1997"
+        },
+        {
+            "name": "Tafadzwa Chingore",
+            "gender": "Female",
+            "birthDate": "November 16 2001"
+        }
+    ]
+}
