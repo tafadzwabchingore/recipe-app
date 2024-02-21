@@ -4,16 +4,12 @@
             "week": "Week 1",
             "links": [
                 {
-                    "url": "week01/holygrail.html",
+                    "url": "https://github.com/tafadzwabchingore/wdd230/blob/master/week01/holygrail.html",
                     "title": "HG Layout"
                 },
                 {
-                    "url": "week01/media-query.html",
+                    "url": "https://github.com/tafadzwabchingore/wdd230/blob/master/week01/media-query.html",
                     "title": "mQueries"
-                },
-                {
-                    "url": "week01/chamber-site-plan.html",
-                    "title": "Chamber Site Plan"
                 }
             ]
         },
@@ -21,16 +17,8 @@
             "week": "Week 2",
             "links": [
                 {
-                    "url": "week02/design.html",
-                    "title": "designPrinciples"
-                },
-                {
                     "url": "https://codepen.io/Tafadzwa-Chingore/pen/rNPryOJ",
                     "title": "hamburgerMenu"
-                },
-                {
-                    "url": "week02/bom.html",
-                    "title": "BOM"
                 }
             ]
         },
@@ -38,19 +26,11 @@
             "week": "Week 3",
             "links": [
                 {
-                    "url": "week03/images/landscape.webp",
-                    "title": "WebP"
-                },
-                {
-                    "url": "week03/lazyload.html",
-                    "title": "lazyLoad"
-                },
-                {
-                    "url": "week03/responsive-images.html",
+                    "url": "https://github.com/tafadzwabchingore/wdd230/blob/master/week03/responsive-images.html",
                     "title": "ResponsiveImgs"
                 },
                 {
-                    "url": "week03/local-storage.html",
+                    "url": "https://github.com/tafadzwabchingore/wdd230/blob/master/week03/local-storage.html",
                     "title": "WebStorageAPI-localStorage"
                 }
             ]
@@ -61,18 +41,6 @@
                 {
                     "url": "https://codepen.io/Tafadzwa-Chingore/pen/poGaZVV",
                     "title": "CSS Pseudo-Classes"
-                },
-                {
-                    "url": "week04/images",
-                    "title": "CSS Combinators"
-                },
-                {
-                    "url": "week04/tablebuild.html",
-                    "title": "HTMLTables"
-                },
-                {
-                    "url": "week04/form-start/index.html",
-                    "title": "Forms"
                 }
             ]
         },
@@ -84,12 +52,8 @@
                     "title": "CSS Pseudo-elements"
                 },
                 {
-                    "url": "week05/new-ward-members.json",
+                    "url": "https://github.com/tafadzwabchingore/wdd230/blob/master/week05/new-ward-members.json",
                     "title": "JSON"
-                },
-                {
-                    "url": "week05/prophets.html",
-                    "title": "FetchAPI"
                 }
             ]
         }

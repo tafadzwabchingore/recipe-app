@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+    <meta name="author" content="Tafadzwa Chingore">
+    <meta name="description" content="Tafadzwa Chingore's Practice Webite.">
+</head>
+
+<body>
+    <h2>Practice</h2>
+    <section>
+        <h3>Links to Practice Code</h3>
+        <ul>
+            <!-- Loop through each week -->
+            {% for week in weeks %}
+            <li>Week {{ week.weekNumber }}:
+                <!-- Loop through each link in the week -->
+                {% for link in week.links %}
+                <a href="{{ link.url }}">{{ link.title }}</a>
+                {% endfor %}
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    <script src="links.js"></script>
+</body>
+
+</html>
